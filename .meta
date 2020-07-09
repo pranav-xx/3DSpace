@@ -1,5 +1,6 @@
 {
   "projects": {
-    "3DFrontend": "https://github.com/pranav-xx/3DFrontend.git"
+    "3DFrontend": "https://github.com/pranav-xx/3DFrontend.git",
+    "3dService": "https://github.com/pranav-xx/3DService.git"
   }
 }
