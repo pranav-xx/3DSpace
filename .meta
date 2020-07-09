@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "3DFrontend": "https://github.com/pranav-xx/3DFrontend.git"
+  }
 }
